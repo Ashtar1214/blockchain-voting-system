@@ -19,7 +19,7 @@ A secure and transparent voting system built using blockchain technology with Py
 ### Installation
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/blockchain-voting.git
+git clone https://github.com/Ashtar1214/blockchain-voting.git
 
 # Navigate to project
 cd blockchain-voting
